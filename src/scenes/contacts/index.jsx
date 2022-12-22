@@ -53,7 +53,7 @@ const Contacts = () => {
   ];
 
   return (
-    <Box m=" 15px 20px ">
+    <Box m="0 20px ">
       <Header
         title="CONTACTS"
         subtitle="List of Contacts for Future Reference"
